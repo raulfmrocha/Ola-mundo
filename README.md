@@ -3,4 +3,4 @@
 
  Repositorio criado com ajuda do curso em video. 
  
- Essa lina foi adicionada pelo site. 
+ Essa linha foi adicionada pelo site. 
